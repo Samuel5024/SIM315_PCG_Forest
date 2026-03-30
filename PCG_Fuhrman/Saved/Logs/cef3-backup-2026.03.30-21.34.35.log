@@ -1,0 +1,178 @@
+[0330/142916.450:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0330/143217.272:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[0330/143217.365:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
+
+[0330/143217.502:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[0330/143217.643:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E5580] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[0330/143217.658:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E5580] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[0330/143323.032:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[0330/143323.138:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
+
+[0330/143324.348:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[0330/143338.494:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(124,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[0330/143338.501:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(91,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(69,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[0330/143338.531:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[0330/143338.543:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(720,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(698,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+C:\fakepath(720,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(698,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+C:\fakepath(720,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(698,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[0330/143338.552:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(178,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(156,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+C:\fakepath(178,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(156,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[0330/143338.564:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(713,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(691,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+C:\fakepath(713,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(691,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+C:\fakepath(713,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(691,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+C:\fakepath(713,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(691,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[0330/143338.579:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(127,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(105,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+C:\fakepath(127,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(105,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+C:\fakepath(127,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(105,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[0330/143338.749:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(713,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(691,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+C:\fakepath(713,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(691,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+C:\fakepath(713,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(691,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+C:\fakepath(713,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(691,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[0330/143338.815:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(720,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(698,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+C:\fakepath(720,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(698,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+C:\fakepath(720,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_mat4x4)
+C:\fakepath(698,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[0330/143340.431:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.431:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.439:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.439:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.456:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.456:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.474:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.474:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.496:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.496:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.506:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.506:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.524:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.524:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.540:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.541:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.563:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.563:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.573:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.573:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.590:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.590:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.606:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.606:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.630:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.630:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.641:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.641:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.657:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.657:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.674:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.674:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.691:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.692:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.712:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.712:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.724:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.724:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.739:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.739:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.757:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.757:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.779:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.779:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.791:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.791:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.807:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.807:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.823:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.823:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.845:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.845:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.857:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.857:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.872:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.872:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.889:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.889:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.912:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.912:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.922:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.923:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.945:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.945:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.955:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.956:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.972:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.972:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.996:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143340.996:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143341.006:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143341.006:ERROR:gl_utils.cc(314)] [.WebGL-0000046CF21E6F80] GL_INVALID_OPERATION: Mismatch between texture format and sampler type (signed/unsigned/float/shadow).
+[0330/143434.290:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[0330/143434.365:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
+
+[0330/143435.396:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[0330/143435.401:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[0330/143435.404:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[0330/143435.408:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
