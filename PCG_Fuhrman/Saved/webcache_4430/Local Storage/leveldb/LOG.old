@@ -1,8 +1,6 @@
-2026/03/30-14:27:16.051 4a44 Creating DB C:/Users/fuhrmas1/Documents/Unreal Projects/PCG_Fuhrman/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2026/03/30-14:27:16.060 4a44 Reusing MANIFEST C:/Users/fuhrmas1/Documents/Unreal Projects/PCG_Fuhrman/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/03/30-14:36:18.166 4cbc Level-0 table #5: started
-2026/03/30-14:36:18.168 4cbc Level-0 table #5: 70567 bytes OK
-2026/03/30-14:36:18.169 4cbc Delete type=0 #3
-2026/03/30-14:41:18.174 15c0 Level-0 table #7: started
-2026/03/30-14:41:18.177 15c0 Level-0 table #7: 75910 bytes OK
-2026/03/30-14:41:18.178 15c0 Delete type=0 #4
+2026/03/30-14:47:01.094 8a8c Reusing MANIFEST C:/Users/fuhrmas1/Documents/Unreal Projects/PCG_Fuhrman/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/03/30-14:47:01.094 8a8c Recovering log #6
+2026/03/30-14:47:01.095 8a8c Reusing old log C:/Users/fuhrmas1/Documents/Unreal Projects/PCG_Fuhrman/Saved/webcache_4430\Local Storage\leveldb/000006.log 
+2026/03/30-14:51:14.682 6298 Level-0 table #10: started
+2026/03/30-14:51:14.683 6298 Level-0 table #10: 71820 bytes OK
+2026/03/30-14:51:14.684 6298 Delete type=0 #6
