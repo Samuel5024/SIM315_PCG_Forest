@@ -1,5 +1,2 @@
-2026/04/04-17:00:25.035 9478 Reusing MANIFEST C:/Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/04/04-17:00:25.036 9478 Recovering log #18
-2026/04/04-17:00:25.036 9478 Level-0 table #21: started
-2026/04/04-17:00:25.038 9478 Level-0 table #21: 69369 bytes OK
-2026/04/04-17:00:25.039 9478 Delete type=0 #18
+2026/04/08-15:39:30.365 71f8 Creating DB C:/Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2026/04/08-15:39:30.373 71f8 Reusing MANIFEST C:/Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
