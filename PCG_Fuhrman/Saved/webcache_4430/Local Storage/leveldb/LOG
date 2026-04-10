@@ -1,9 +1,6 @@
-2026/04/08-21:12:49.565 8528 Reusing MANIFEST C:/Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/04/08-21:12:49.566 8528 Recovering log #3
-2026/04/08-21:12:49.566 8528 Reusing old log C:/Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/webcache_4430\Local Storage\leveldb/000003.log 
-2026/04/08-21:27:49.737 35d8 Level-0 table #5: started
-2026/04/08-21:27:49.740 35d8 Level-0 table #5: 69126 bytes OK
-2026/04/08-21:27:49.741 35d8 Delete type=0 #3
-2026/04/08-22:19:18.490 18c0 Level-0 table #7: started
-2026/04/08-22:19:18.491 18c0 Level-0 table #7: 64228 bytes OK
-2026/04/08-22:19:18.492 18c0 Delete type=0 #4
+2026/04/10-14:30:50.127 6a40 Reusing MANIFEST C:/Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/04/10-14:30:50.134 6a40 Recovering log #6
+2026/04/10-14:30:50.135 6a40 Reusing old log C:/Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/webcache_4430\Local Storage\leveldb/000006.log 
+2026/04/10-14:41:47.667 9e9c Level-0 table #10: started
+2026/04/10-14:41:47.669 9e9c Level-0 table #10: 65117 bytes OK
+2026/04/10-14:41:47.669 9e9c Delete type=0 #6
