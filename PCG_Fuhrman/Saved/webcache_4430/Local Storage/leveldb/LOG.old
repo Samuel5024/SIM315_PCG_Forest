@@ -1,3 +1,14 @@
-2026/04/18-15:24:21.804 6084 Reusing MANIFEST C:/Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/04/18-15:24:21.806 6084 Recovering log #16
-2026/04/18-15:24:21.806 6084 Reusing old log C:/Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/webcache_4430\Local Storage\leveldb/000016.log 
+2026/04/18-16:12:31.538 48e0 Reusing MANIFEST C:/Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/04/18-16:12:31.543 48e0 Recovering log #16
+2026/04/18-16:12:31.543 48e0 Level-0 table #18: started
+2026/04/18-16:12:31.545 48e0 Level-0 table #18: 68530 bytes OK
+2026/04/18-16:12:31.546 48e0 Delete type=0 #16
+2026/04/18-16:12:31.546 7804 Compacting 4@0 + 1@1 files
+2026/04/18-16:12:31.552 7804 Generated table #20@0: 3 keys, 17504 bytes
+2026/04/18-16:12:31.552 7804 Compacted 4@0 + 1@1 files => 17504 bytes
+2026/04/18-16:12:31.552 7804 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/18-16:12:31.553 7804 Delete type=2 #7
+2026/04/18-16:12:31.553 7804 Delete type=2 #10
+2026/04/18-16:12:31.553 7804 Delete type=2 #13
+2026/04/18-16:12:31.553 7804 Delete type=2 #15
+2026/04/18-16:12:31.553 7804 Delete type=2 #18
