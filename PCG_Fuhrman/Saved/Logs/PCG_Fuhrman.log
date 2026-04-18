@@ -1400,3 +1400,204 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.18-23.23.36:475][ 53]LogSlate: Window 'Plugins' being destroyed
 [2026.04.18-23.23.36:480][ 53]LogSlate: Window 'Plugins' being destroyed
 [2026.04.18-23.25.17:101][506]LogDerivedDataCache: C:/Users/fuhrmas1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.18-23.26.35:525][848]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2026.04.18-23.26.35:911][865]LogSlate: Took 0.004358 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.04.18-23.26.41:746][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.04.18-23.26.41:748][459]LogStreaming: Display: FlushAsyncLoading(495): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.18-23.26.42:373][459]LogChaosDD: Creating Chaos Debug Draw Scene for world L_HeightMap1
+[2026.04.18-23.26.42:428][459]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/L_HeightMap1.L_HeightMap1
+[2026.04.18-23.26.42:429][459]Cmd: MAP LOAD FILE="../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Content/Levels/L_HeightMap1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.04.18-23.26.42:447][459]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-23.26.42:447][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-23.26.42:447][459]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Untitled_1.Untitled_1
+[2026.04.18-23.26.42:493][459]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.18-23.26.42:505][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.04.18-23.26.42:513][459]LogWorld: UWorld::CleanupWorld for L_HeightMap1, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-23.26.42:516][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-23.26.42:637][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.04.18-23.26.42:646][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.04.18-23.26.42:995][459]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_HeightMap1'.
+[2026.04.18-23.26.42:995][459]LogChaosDD: Creating Chaos Debug Draw Scene for world L_HeightMap1
+[2026.04.18-23.26.43:351][459]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.04.18-23.26.43:365][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.04.18-23.26.43:373][459]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.04.18-23.26.43:373][459]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.045ms to complete.
+[2026.04.18-23.27.03:207][752]LogStreaming: Display: FlushAsyncLoading(497): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.18-23.27.03:209][752]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Level_Sequences/Heightmap1.Heightmap1
+[2026.04.18-23.27.27:020][749]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2026.04.18-23.27.27:028][749]LogContentBrowser: Creating deferred item: NewWorld
+[2026.04.18-23.27.27:038][750]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2026.04.18-23.27.31:706][300]LogContentBrowser: Attempting asset rename: NewWorld -> L_HeightMap2
+[2026.04.18-23.27.31:708][300]LogChaosDD: Creating Chaos Debug Draw Scene for world L_HeightMap2
+[2026.04.18-23.27.31:710][300]LogContentBrowser: End creating deferred item NewWorld
+[2026.04.18-23.27.33:472][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.04.18-23.27.36:403][499]LogSlate: Window 'Save Content' being destroyed
+[2026.04.18-23.27.36:412][499]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.18-23.27.36:468][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.04.18-23.27.36:470][499]LogSavePackage: Moving output files for package: /Game/Levels/L_HeightMap2
+[2026.04.18-23.27.36:470][499]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/L_HeightMap26316364147A2FCED1E07909D0B3F969A.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Content/Levels/L_HeightMap2.umap'
+[2026.04.18-23.27.36:475][499]LogFileHelpers: Saving map 'L_HeightMap2' took 0.014
+[2026.04.18-23.27.36:512][499]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.060 ms
+[2026.04.18-23.27.36:512][499]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/L_HeightMap2.L_HeightMap2
+[2026.04.18-23.27.36:512][499]Cmd: MAP LOAD FILE="../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Content/Levels/L_HeightMap2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.04.18-23.27.36:567][499]LogWorld: UWorld::CleanupWorld for L_HeightMap1, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-23.27.36:567][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-23.27.36:575][499]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.18-23.27.36:588][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.04.18-23.27.36:592][499]LogWorld: UWorld::CleanupWorld for L_HeightMap2, bSessionEnded=true, bCleanupResources=true
+[2026.04.18-23.27.36:592][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.18-23.27.36:597][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.04.18-23.27.36:604][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.04.18-23.27.36:604][499]LogStreaming: Display: FlushAsyncLoading(499): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.18-23.27.36:605][499]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_HeightMap2'.
+[2026.04.18-23.27.36:605][499]LogChaosDD: Creating Chaos Debug Draw Scene for world L_HeightMap2
+[2026.04.18-23.27.36:623][499]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.04.18-23.27.36:630][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.04.18-23.27.36:634][499]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.04.18-23.27.36:634][499]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.035ms to complete.
+[2026.04.18-23.27.36:695][499]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.18-23.27.36:695][499]LogContentValidation: Enabled validators:
+[2026.04.18-23.27.36:696][499]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.18-23.27.36:696][499]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.18-23.27.36:696][499]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.18-23.27.36:696][499]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.18-23.27.36:696][499]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.18-23.27.36:696][499]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.18-23.27.36:696][499]AssetCheck: /Game/Levels/L_HeightMap2 Validating asset
+[2026.04.18-23.27.46:484][598]LogEditor: Attempting to add actor of class 'ExponentialHeightFog' to level at 0.00,0.00,0.00
+[2026.04.18-23.27.47:346][696]LogEditor: Attempting to add actor of class 'VolumetricCloud' to level at 0.00,0.00,0.00
+[2026.04.18-23.27.48:012][769]LogEditor: Attempting to add actor of class 'SkyAtmosphere' to level at 0.00,0.00,0.00
+[2026.04.18-23.27.48:537][824]LogEditor: Attempting to add actor of class 'DirectionalLight' to level at 0.00,0.00,0.00
+[2026.04.18-23.27.49:025][875]LogEditor: Attempting to add actor of class 'SkyLight' to level at 0.00,0.00,0.00
+[2026.04.18-23.27.50:035][982]LogSlate: Window 'Env. Light Mixer' being destroyed
+[2026.04.18-23.27.50:039][982]LogSlate: Window 'Env. Light Mixer' being destroyed
+[2026.04.18-23.29.20:980][901]LogStreaming: Display: FlushAsyncLoading(500): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.18-23.29.21:416][901]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2026.04.18-23.29.23:313][118]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 353.834015
+[2026.04.18-23.29.23:451][136]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.18-23.29.23:451][136]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 353.963959, Update Interval: 315.903198
+[2026.04.18-23.30.06:149][735]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.18-23.30.06:149][735]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.18-23.30.06:149][735]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_0.Heightmap_2 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.18-23.30.06:150][735]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_0.Heightmap_3 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.18-23.30.06:150][735]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_0.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.18-23.30.06:152][735]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_0.Heightmap_5 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.18-23.30.06:154][735]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_0.Heightmap_6 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.18-23.30.06:155][735]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_0.Heightmap_7 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.18-23.30.06:157][735]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_0.Heightmap_9 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.18-23.30.06:158][735]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_0.Heightmap_8 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.18-23.30.06:160][735]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_0.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.18-23.30.06:160][735]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_0.Heightmap_11 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.18-23.30.06:162][735]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_0.Heightmap_14 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.18-23.30.06:162][735]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_0.Heightmap_13 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.18-23.30.06:162][735]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_0.Heightmap_15 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.18-23.30.06:162][735]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.18-23.30.06:400][735]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_0.Heightmap_17 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.18-23.30.06:400][735]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_0.Heightmap_16 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.18-23.30.06:401][735]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_0.Heightmap_18 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.18-23.30.06:402][735]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_0.Heightmap_20 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.18-23.30.06:402][735]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_0.Heightmap_24 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.18-23.30.06:402][735]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_0.Heightmap_28 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.18-23.30.06:402][735]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_0.Heightmap_29 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.18-23.30.06:404][735]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_0.Heightmap_27 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.18-23.30.06:405][735]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_0.Heightmap_30 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.18-23.30.06:405][735]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_0.Heightmap_22 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.18-23.30.06:405][735]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_0.Heightmap_23 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.18-23.30.06:405][735]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_0.Heightmap_26 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.18-23.30.06:406][735]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_0.Heightmap_31 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.18-23.30.06:406][735]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_0.Heightmap_21 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.18-23.30.06:406][735]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_0.Heightmap_25 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.18-23.30.06:407][735]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_0.Heightmap_19 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.18-23.30.13:865][398]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Level_Sequences/Heightmap1.Heightmap1
+[2026.04.18-23.30.14:013][398]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2026.04.18-23.30.49:325][388]LogStreaming: Display: FlushAsyncLoading(516): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.18-23.32.16:448][421]Cmd: DELETE
+[2026.04.18-23.32.16:448][421]Cmd: ACTOR DELETE
+[2026.04.18-23.32.16:475][421]LogEditorActor: Deleted Actor: Landscape
+[2026.04.18-23.32.16:877][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.04.18-23.32.16:879][421]LogEditorActor: Deleted 1 Actors (0.430 secs)
+[2026.04.18-23.32.20:094][738]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2026.04.18-23.32.47:437][565]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_1.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.18-23.32.47:437][565]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.18-23.32.47:440][565]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_1.Heightmap_3 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.18-23.32.47:440][565]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_1.Heightmap_2 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.18-23.32.47:441][565]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_1.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.18-23.32.47:442][565]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_1.Heightmap_6 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.18-23.32.47:443][565]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_1.Heightmap_5 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.18-23.32.47:443][565]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_1.Heightmap_7 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.18-23.32.47:444][565]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_1.Heightmap_8 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.18-23.32.47:444][565]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_1.Heightmap_11 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.18-23.32.47:444][565]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_1.Heightmap_9 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.18-23.32.47:444][565]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_1.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.18-23.32.47:446][565]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_1.Heightmap_13 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.18-23.32.47:448][565]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_1.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.18-23.32.47:448][565]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_1.Heightmap_14 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.18-23.32.47:449][565]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_1.Heightmap_15 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.18-23.32.47:783][565]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_1.Heightmap_16 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.18-23.32.47:783][565]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_1.Heightmap_19 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.18-23.32.47:784][565]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_1.Heightmap_18 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.18-23.32.47:784][565]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_1.Heightmap_17 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.18-23.32.47:786][565]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_1.Heightmap_20 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.18-23.32.47:786][565]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_1.Heightmap_26 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.18-23.32.47:787][565]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_1.Heightmap_27 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.18-23.32.47:787][565]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_1.Heightmap_30 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.18-23.32.47:787][565]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_1.Heightmap_21 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.18-23.32.47:787][565]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_1.Heightmap_31 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.18-23.32.47:789][565]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_1.Heightmap_28 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.18-23.32.47:790][565]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_1.Heightmap_24 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.18-23.32.47:790][565]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_1.Heightmap_23 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.18-23.32.47:790][565]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_1.Heightmap_29 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.18-23.32.47:790][565]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_1.Heightmap_22 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.18-23.32.47:790][565]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap2.L_HeightMap2:PersistentLevel.Landscape_1.Heightmap_25 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.18-23.33.16:882][449]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2026.04.18-23.34.42:912][522]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 673.402832
+[2026.04.18-23.34.43:910][525]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.18-23.34.43:910][525]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 674.068115, Update Interval: 323.961914
+[2026.04.18-23.37.33:693][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.04.18-23.37.34:248][ 33]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/L_HeightMap2_Auto1
+[2026.04.18-23.37.34:248][ 33]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/L_HeightMap2_Auto1418FCAB54E2DFC62D266A0B8060EDD13.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/Autosaves/Game/Levels/L_HeightMap2_Auto1.umap'
+[2026.04.18-23.37.34:250][ 33]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_HeightMap2' took 0.589
+[2026.04.18-23.37.34:250][ 33]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.589
+[2026.04.18-23.39.48:425][190]LogContentBrowser: Deferred new asset file creation: NewPCGGraph
+[2026.04.18-23.39.48:432][190]LogContentBrowser: Creating deferred item: NewPCGGraph
+[2026.04.18-23.39.48:441][191]LogContentBrowser: Renaming the item being created (Deferred Item: NewPCGGraph).
+[2026.04.18-23.39.56:383][113]LogContentBrowser: Attempting asset rename: NewPCGGraph -> PCG_Forest2
+[2026.04.18-23.39.56:384][113]LogContentBrowser: End creating deferred item NewPCGGraph
+[2026.04.18-23.39.58:425][354]LogAssetEditorSubsystem: Opening Asset editor for PCGGraph /Game/PCG/PCG_Forest2.PCG_Forest2
+[2026.04.18-23.39.58:721][354]LogSlate: Took 0.004723 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.04.18-23.40.01:810][652]LogSlate: Window 'PCG_Forest2' being destroyed
+[2026.04.18-23.40.12:786][844]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1003.280457
+[2026.04.18-23.40.12:946][859]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.18-23.40.12:946][859]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1003.430786, Update Interval: 323.273407
+[2026.04.18-23.40.26:362][299]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.18-23.40.26:414][299]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PCG/PCG_Forest2] ([1] browsable assets)...
+[2026.04.18-23.40.26:414][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/PCG/PCG_Forest2]
+[2026.04.18-23.40.26:414][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PCG/PCG_Forest2" FILE="../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Content/PCG/PCG_Forest2.uasset" SILENT=true
+[2026.04.18-23.40.26:417][299]LogSavePackage: Moving output files for package: /Game/PCG/PCG_Forest2
+[2026.04.18-23.40.26:417][299]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/PCG_Forest2518370F2403B737E6F9042A93EA99F1A.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Content/PCG/PCG_Forest2.uasset'
+[2026.04.18-23.40.26:427][299]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.283 ms (total: 164.344 ms)
+[2026.04.18-23.40.26:461][299]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.18-23.40.26:461][299]LogContentValidation: Enabled validators:
+[2026.04.18-23.40.26:461][299]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.18-23.40.26:461][299]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.18-23.40.26:461][299]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.18-23.40.26:461][299]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.18-23.40.26:461][299]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.18-23.40.26:461][299]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.18-23.40.26:461][299]AssetCheck: /Game/PCG/PCG_Forest2 Validating asset
+[2026.04.18-23.40.33:184][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.04.18-23.40.33:188][673]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.18-23.40.33:256][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.04.18-23.40.33:937][673]LogSavePackage: Moving output files for package: /Game/Levels/L_HeightMap2
+[2026.04.18-23.40.33:938][673]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/L_HeightMap29F8CB6E44DD5A3216D4E9D9967A8257F.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Content/Levels/L_HeightMap2.umap'
+[2026.04.18-23.40.33:949][673]LogFileHelpers: Saving map 'L_HeightMap2' took 0.718
+[2026.04.18-23.40.33:952][673]LogFileHelpers: InternalPromptForCheckoutAndSave took 764.930 ms (total: 929.275 ms)
+[2026.04.18-23.40.34:012][673]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.18-23.40.34:012][673]LogContentValidation: Enabled validators:
+[2026.04.18-23.40.34:012][673]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.18-23.40.34:012][673]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.18-23.40.34:012][673]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.18-23.40.34:012][673]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.18-23.40.34:012][673]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.18-23.40.34:012][673]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.18-23.40.34:012][673]AssetCheck: /Game/Levels/L_HeightMap2 Validating asset
