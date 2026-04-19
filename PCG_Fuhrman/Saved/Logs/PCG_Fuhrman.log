@@ -1847,3 +1847,234 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.19-00.09.50:685][282]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.04.19-00.09.50:685][282]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.04.19-00.09.50:685][282]AssetCheck: /Game/PCG/PCG_Forest2 Validating asset
+[2026.04.19-00.11.00:128][661]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2850.628174
+[2026.04.19-00.11.00:276][669]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-00.11.00:276][669]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2850.757324, Update Interval: 324.632111
+[2026.04.19-00.17.16:008][393]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3226.527100
+[2026.04.19-00.17.16:219][399]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-00.17.16:219][399]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3226.702393, Update Interval: 327.505127
+[2026.04.19-00.18.20:576][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.04.19-00.18.21:304][300]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/L_HeightMap2_Auto3
+[2026.04.19-00.18.21:304][300]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/L_HeightMap2_Auto3DD5720F54F2CC739F9E9A3B83C5B89C5.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/Autosaves/Game/Levels/L_HeightMap2_Auto3.umap'
+[2026.04.19-00.18.21:307][300]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_HeightMap2' took 0.774
+[2026.04.19-00.18.21:307][300]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.774
+[2026.04.19-00.18.21:307][300]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PCG/PCG_Forest2] ([1] browsable assets)...
+[2026.04.19-00.18.21:307][300]OBJ SavePackage: Finished generating thumbnails for package [/Game/PCG/PCG_Forest2]
+[2026.04.19-00.18.21:314][300]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PCG/PCG_Forest2_Auto3
+[2026.04.19-00.18.21:314][300]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/PCG_Forest2_Auto3DB907FB84B2DFB3D61DFC7AA198164B8.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/Autosaves/Game/PCG/PCG_Forest2_Auto3.uasset'
+[2026.04.19-00.18.21:315][300]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Tree-1/tree_1_texture_0] ([1] browsable assets)...
+[2026.04.19-00.18.21:317][300]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Tree-1/tree_1_texture_0.tree_1_texture_0]
+[2026.04.19-00.18.21:317][300]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tree-1/tree_1_texture_0]
+[2026.04.19-00.18.21:362][300]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Tree-1/tree_1_texture_0_Auto3
+[2026.04.19-00.18.21:362][300]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/tree_1_texture_0_Auto37F61B5634DA2D375AEEC23ADAE7A1A5E.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/Autosaves/Game/Fab/Tree-1/tree_1_texture_0_Auto3.uasset'
+[2026.04.19-00.18.21:363][300]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Tree-1/tree_1_texture_1] ([1] browsable assets)...
+[2026.04.19-00.18.21:365][300]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Tree-1/tree_1_texture_1.tree_1_texture_1]
+[2026.04.19-00.18.21:365][300]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tree-1/tree_1_texture_1]
+[2026.04.19-00.18.21:373][300]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Tree-1/tree_1_texture_1_Auto3
+[2026.04.19-00.18.21:373][300]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/tree_1_texture_1_Auto375DDEC994B92B2835005F5843B23B8BC.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/Autosaves/Game/Fab/Tree-1/tree_1_texture_1_Auto3.uasset'
+[2026.04.19-00.18.21:374][300]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Tree-1/tree_1_texture_2] ([1] browsable assets)...
+[2026.04.19-00.18.21:375][300]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Tree-1/tree_1_texture_2.tree_1_texture_2]
+[2026.04.19-00.18.21:375][300]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tree-1/tree_1_texture_2]
+[2026.04.19-00.18.21:384][300]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Tree-1/tree_1_texture_2_Auto3
+[2026.04.19-00.18.21:384][300]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/tree_1_texture_2_Auto397D5D30B47F5D27A6CAA33A3BFF2D78F.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/Autosaves/Game/Fab/Tree-1/tree_1_texture_2_Auto3.uasset'
+[2026.04.19-00.18.21:385][300]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Tree-1/tree_bark_03_001] ([1] browsable assets)...
+[2026.04.19-00.18.21:415][300]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Tree-1/tree_bark_03_001.tree_bark_03_001]
+[2026.04.19-00.18.21:415][300]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tree-1/tree_bark_03_001]
+[2026.04.19-00.18.21:416][300]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Tree-1/tree_bark_03_001_Auto3
+[2026.04.19-00.18.21:416][300]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/tree_bark_03_001_Auto3A5149BBA4C9EE4060D4183B274E7205B.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/Autosaves/Game/Fab/Tree-1/tree_bark_03_001_Auto3.uasset'
+[2026.04.19-00.18.21:417][300]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Tree-1/Leaf1] ([1] browsable assets)...
+[2026.04.19-00.18.21:424][300]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Tree-1/Leaf1.Leaf1]
+[2026.04.19-00.18.21:424][300]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tree-1/Leaf1]
+[2026.04.19-00.18.21:425][300]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Tree-1/Leaf1_Auto3
+[2026.04.19-00.18.21:426][300]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/Leaf1_Auto3759DC30F47414A88F7A0D8B088E45DE5.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/Autosaves/Game/Fab/Tree-1/Leaf1_Auto3.uasset'
+[2026.04.19-00.18.21:426][300]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Tree-1/Tree_001_baked] ([1] browsable assets)...
+[2026.04.19-00.18.21:432][300]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Tree-1/Tree_001_baked.Tree_001_baked]
+[2026.04.19-00.18.21:432][300]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tree-1/Tree_001_baked]
+[2026.04.19-00.18.21:433][300]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Tree-1/Tree_001_baked_Auto3
+[2026.04.19-00.18.21:433][300]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/Tree_001_baked_Auto3ABBE02424F154D71053DD79FDC3D310B.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/Autosaves/Game/Fab/Tree-1/Tree_001_baked_Auto3.uasset'
+[2026.04.19-00.18.21:434][300]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Tree-1/tree_1] ([1] browsable assets)...
+[2026.04.19-00.18.21:440][300]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/Tree-1/tree_1.tree_1]
+[2026.04.19-00.18.21:440][300]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tree-1/tree_1]
+[2026.04.19-00.18.21:565][300]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Tree-1/tree_1_Auto3
+[2026.04.19-00.18.21:565][300]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/tree_1_Auto3450FDBC340475E92D060DA84CE999B0A.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/Autosaves/Game/Fab/Tree-1/tree_1_Auto3.uasset'
+[2026.04.19-00.18.21:566][300]LogFileHelpers: Auto-saving content packages took 0.259
+[2026.04.19-00.19.03:186][959]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2026.04.19-00.19.04:155][ 42]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2026.04.19-00.22.43:026][612]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.19-00.22.52:367][ 18]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.19-00.23.26:285][476]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3596.797363
+[2026.04.19-00.23.26:570][480]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-00.23.26:570][480]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3597.011475, Update Interval: 304.394653
+[2026.04.19-00.23.35:414][611]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data. AppVersion = 5.5.4-40574608+++UE5+Release-5.5
+[2026.04.19-00.23.35:498][611]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2026.04.19-00.23.35:498][611]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2026.04.19-00.23.35:498][611]LogAnalyticsSessionSummarySender: Sent summary session report for: AppId=UEEditor.Rocket.Release SessionId={E7C9C27B-48EE-CB0B-4AC0-DC84E100929A}
+[2026.04.19-00.25.17:150][ 81]LogDerivedDataCache: C:/Users/fuhrmas1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.19-00.28.35:103][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.04.19-00.28.35:827][319]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/L_HeightMap2_Auto4
+[2026.04.19-00.28.35:827][319]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/L_HeightMap2_Auto4886C43D546A5060FC34739B0C13EFE88.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/Autosaves/Game/Levels/L_HeightMap2_Auto4.umap'
+[2026.04.19-00.28.35:829][319]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_HeightMap2' took 0.755
+[2026.04.19-00.28.35:829][319]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.755
+[2026.04.19-00.28.35:830][319]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PCG/PCG_Forest2] ([1] browsable assets)...
+[2026.04.19-00.28.35:830][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/PCG/PCG_Forest2]
+[2026.04.19-00.28.35:839][319]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PCG/PCG_Forest2_Auto4
+[2026.04.19-00.28.35:839][319]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/PCG_Forest2_Auto4ED62FBF84C64B4FAC0AB359A3F84024D.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/Autosaves/Game/PCG/PCG_Forest2_Auto4.uasset'
+[2026.04.19-00.28.35:839][319]LogFileHelpers: Auto-saving content packages took 0.010
+[2026.04.19-00.28.49:651][755]Cmd: TRANSACTION UNDO
+[2026.04.19-00.28.49:651][755]LogEditorTransaction: Undo PCG Editor: Delete
+[2026.04.19-00.29.25:634][921]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3956.153320
+[2026.04.19-00.29.25:814][928]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-00.29.25:814][928]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3956.325684, Update Interval: 335.843994
+[2026.04.19-00.30.17:409][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.04.19-00.30.17:416][671]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.19-00.30.17:495][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.04.19-00.30.18:231][671]LogSavePackage: Moving output files for package: /Game/Levels/L_HeightMap2
+[2026.04.19-00.30.18:231][671]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/L_HeightMap28C873DBA4FE73B62433E928101DAC3F3.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Content/Levels/L_HeightMap2.umap'
+[2026.04.19-00.30.18:247][671]LogFileHelpers: Saving map 'L_HeightMap2' took 0.783
+[2026.04.19-00.30.18:247][671]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PCG/PCG_Forest2] ([1] browsable assets)...
+[2026.04.19-00.30.18:247][671]OBJ SavePackage: Finished generating thumbnails for package [/Game/PCG/PCG_Forest2]
+[2026.04.19-00.30.18:247][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PCG/PCG_Forest2" FILE="../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Content/PCG/PCG_Forest2.uasset" SILENT=true
+[2026.04.19-00.30.18:255][671]LogSavePackage: Moving output files for package: /Game/PCG/PCG_Forest2
+[2026.04.19-00.30.18:255][671]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/PCG_Forest2745F6A16414A000B7A64E2BA1B4C9435.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Content/PCG/PCG_Forest2.uasset'
+[2026.04.19-00.30.18:256][671]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Tree-1/tree_1_texture_0] ([1] browsable assets)...
+[2026.04.19-00.30.18:256][671]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tree-1/tree_1_texture_0]
+[2026.04.19-00.30.18:335][671]LogSavePackage: Moving output files for package: /Game/Fab/Tree-1/tree_1_texture_0
+[2026.04.19-00.30.18:335][671]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/tree_1_texture_074D2D762439F65B3BCD89599B6D6AD55.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Content/Fab/Tree-1/tree_1_texture_0.uasset'
+[2026.04.19-00.30.18:339][671]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Tree-1/tree_1_texture_1] ([1] browsable assets)...
+[2026.04.19-00.30.18:339][671]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tree-1/tree_1_texture_1]
+[2026.04.19-00.30.18:359][671]LogSavePackage: Moving output files for package: /Game/Fab/Tree-1/tree_1_texture_1
+[2026.04.19-00.30.18:359][671]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/tree_1_texture_1B60BC36A4649E3713B1028AAE1D48FCC.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Content/Fab/Tree-1/tree_1_texture_1.uasset'
+[2026.04.19-00.30.18:361][671]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Tree-1/tree_1_texture_2] ([1] browsable assets)...
+[2026.04.19-00.30.18:361][671]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tree-1/tree_1_texture_2]
+[2026.04.19-00.30.18:388][671]LogSavePackage: Moving output files for package: /Game/Fab/Tree-1/tree_1_texture_2
+[2026.04.19-00.30.18:388][671]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/tree_1_texture_2513F94DB4FF2E1D7D5D1C9AEEA25F06F.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Content/Fab/Tree-1/tree_1_texture_2.uasset'
+[2026.04.19-00.30.18:389][671]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Tree-1/tree_bark_03_001] ([1] browsable assets)...
+[2026.04.19-00.30.18:391][671]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tree-1/tree_bark_03_001]
+[2026.04.19-00.30.18:392][671]LogSavePackage: Moving output files for package: /Game/Fab/Tree-1/tree_bark_03_001
+[2026.04.19-00.30.18:392][671]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/tree_bark_03_0016FB5701049DDE1F6FB14BE8BF0351371.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Content/Fab/Tree-1/tree_bark_03_001.uasset'
+[2026.04.19-00.30.18:393][671]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Tree-1/Leaf1] ([1] browsable assets)...
+[2026.04.19-00.30.18:393][671]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tree-1/Leaf1]
+[2026.04.19-00.30.18:393][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/Tree-1/Leaf1" FILE="../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Content/Fab/Tree-1/Leaf1.uasset" SILENT=true
+[2026.04.19-00.30.18:394][671]LogSavePackage: Moving output files for package: /Game/Fab/Tree-1/Leaf1
+[2026.04.19-00.30.18:394][671]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/Leaf1E5C3DA974E704677F10068AB6A9647D3.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Content/Fab/Tree-1/Leaf1.uasset'
+[2026.04.19-00.30.18:396][671]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Tree-1/Tree_001_baked] ([1] browsable assets)...
+[2026.04.19-00.30.18:396][671]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tree-1/Tree_001_baked]
+[2026.04.19-00.30.18:396][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/Tree-1/Tree_001_baked" FILE="../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Content/Fab/Tree-1/Tree_001_baked.uasset" SILENT=true
+[2026.04.19-00.30.18:397][671]LogSavePackage: Moving output files for package: /Game/Fab/Tree-1/Tree_001_baked
+[2026.04.19-00.30.18:397][671]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/Tree_001_bakedF16087F441D3387E6D44BAAD13D3DDD6.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Content/Fab/Tree-1/Tree_001_baked.uasset'
+[2026.04.19-00.30.18:399][671]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Tree-1/tree_1] ([1] browsable assets)...
+[2026.04.19-00.30.18:399][671]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Tree-1/tree_1]
+[2026.04.19-00.30.18:399][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/Tree-1/tree_1" FILE="../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Content/Fab/Tree-1/tree_1.uasset" SILENT=true
+[2026.04.19-00.30.18:533][671]LogSavePackage: Moving output files for package: /Game/Fab/Tree-1/tree_1
+[2026.04.19-00.30.18:533][671]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/tree_11C660D3244158F49393C069554EC89BC.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Content/Fab/Tree-1/tree_1.uasset'
+[2026.04.19-00.30.18:540][671]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.12 sec (total: 2.24 sec)
+[2026.04.19-00.30.18:597][671]LogContentValidation: Display: Starting to validate 9 assets
+[2026.04.19-00.30.18:597][671]LogContentValidation: Enabled validators:
+[2026.04.19-00.30.18:597][671]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.19-00.30.18:597][671]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.19-00.30.18:597][671]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.19-00.30.18:597][671]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.19-00.30.18:597][671]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.19-00.30.18:597][671]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.19-00.30.18:598][671]AssetCheck: /Game/Levels/L_HeightMap2 Validating asset
+[2026.04.19-00.30.18:598][671]AssetCheck: /Game/PCG/PCG_Forest2 Validating asset
+[2026.04.19-00.30.18:598][671]AssetCheck: /Game/Fab/Tree-1/tree_1_texture_0 Validating asset
+[2026.04.19-00.30.18:598][671]AssetCheck: /Game/Fab/Tree-1/tree_1_texture_1 Validating asset
+[2026.04.19-00.30.18:598][671]AssetCheck: /Game/Fab/Tree-1/tree_1_texture_2 Validating asset
+[2026.04.19-00.30.18:598][671]AssetCheck: /Game/Fab/Tree-1/tree_bark_03_001 Validating asset
+[2026.04.19-00.30.18:598][671]AssetCheck: /Game/Fab/Tree-1/Leaf1 Validating asset
+[2026.04.19-00.30.18:598][671]AssetCheck: /Game/Fab/Tree-1/Tree_001_baked Validating asset
+[2026.04.19-00.30.18:598][671]AssetCheck: /Game/Fab/Tree-1/tree_1 Validating asset
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display: ================================================
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display: Total job queries 850, among them cache hits 121 (14.24%), DDC hits 662 (77.88%), Duplicates 36 (4.24%)
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display: Tracking 693 distinct input hashes that result in 435 distinct outputs (62.77%)
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display: RAM used: 285.61 KiB of 3.20 GiB budget. Usage: 0.01%
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display: Shaders Compiled: 31
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display: Jobs assigned 31, completed 31 (100%)
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display: Average time worker was idle: 257.22 s
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.16 s
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display: Job execution time: average 0.75 s, max 1.89 s
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display: Job life time (pending + execution): average 0.81 s, max 1.94
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display: Shader code size: average 9.256 KiB, min 2.934 KiB, max 28.383 KiB
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.23 s
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display: Jobs were issued in 31 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display: Average processing rate: 4.29 jobs/sec
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display: Total thread time: 11.625 s
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display: Total thread preprocess time: 9.12 s
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display: Percentage time preprocessing: 78.45%
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display: Effective parallelization: 1.61 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 1.12 sec, max 1.49 sec, min 0.75 sec)
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 0.75 sec, max 0.80 sec, min 0.70 sec)
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 0.50 sec, max 0.50 sec, min 0.50 sec)
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkPS (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display:                        FLumenFrontLayerTranslucencyGBufferPS (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 19.21% of total time (compiled    2 times, average 1.12 sec, max 1.49 sec, min 0.75 sec)
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 12.94% of total time (compiled    2 times, average 0.75 sec, max 0.80 sec, min 0.70 sec)
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.46% of total time (compiled    4 times, average 0.25 sec, max 0.31 sec, min 0.16 sec)
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display:                                                 FLumenCardPS - 7.00% of total time (compiled    3 times, average 0.27 sec, max 0.30 sec, min 0.24 sec)
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.30% of total time (compiled    3 times, average 0.24 sec, max 0.27 sec, min 0.21 sec)
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display: === Material stats ===
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display: Materials Translated:    207
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display: Material Total Translate Time: 0.16 s
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display: Material Translation Only: 0.08 s (51%)
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (3%)
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display: Material Cache Hits: 68 (33%)
+[2026.04.19-00.32.35:577][839]LogShaderCompilers: Display: ================================================
+[2026.04.19-00.33.08:558][342]Cmd: TRANSACTION UNDO
+[2026.04.19-00.33.08:558][342]LogEditorTransaction: Undo Reset to Default
+[2026.04.19-00.33.09:177][355]Cmd: TRANSACTION UNDO
+[2026.04.19-00.33.09:177][355]LogEditorTransaction: Undo Reset to Default
+[2026.04.19-00.33.09:600][370]Cmd: TRANSACTION UNDO
+[2026.04.19-00.33.09:600][370]LogEditorTransaction: Undo Clear Children
+[2026.04.19-00.33.10:071][386]Cmd: TRANSACTION UNDO
+[2026.04.19-00.33.10:071][386]LogEditorTransaction: Undo PCG Editor: Toggle Debug Nodes
+[2026.04.19-00.33.10:533][401]Cmd: TRANSACTION UNDO
+[2026.04.19-00.33.10:533][401]LogEditorTransaction: Undo PCG Editor: Toggle Debug Nodes
+[2026.04.19-00.33.11:029][418]Cmd: TRANSACTION UNDO
+[2026.04.19-00.33.11:029][418]LogEditorTransaction: Undo Clicking on Elements
+[2026.04.19-00.33.11:540][435]Cmd: TRANSACTION UNDO
+[2026.04.19-00.33.11:540][435]LogEditorTransaction: Undo Clicking on Elements
+[2026.04.19-00.33.11:998][452]Cmd: TRANSACTION UNDO
+[2026.04.19-00.33.11:998][452]LogEditorTransaction: Undo Edit Looseness
+[2026.04.19-00.33.12:620][470]Cmd: TRANSACTION UNDO
+[2026.04.19-00.33.12:620][470]LogEditorTransaction: Undo Edit Points Per Squared Meter
+[2026.04.19-00.33.13:172][479]Cmd: TRANSACTION UNDO
+[2026.04.19-00.33.13:172][479]LogEditorTransaction: Undo Set Scale
+[2026.04.19-00.33.13:761][521]Cmd: TRANSACTION UNDO
+[2026.04.19-00.33.13:761][521]LogEditorTransaction: Undo Scale Elements
+[2026.04.19-00.35.23:805][666]LogPCG: Warning: [PCGVolume_1 - AttributeRename_15 (None -> None)]: Invalid target attribute name 'None'
+[2026.04.19-00.35.54:838][680]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4345.348145
+[2026.04.19-00.35.54:982][693]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-00.35.54:982][693]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4345.483398, Update Interval: 346.114685
+[2026.04.19-00.41.22:104][964]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2026.04.19-00.42.27:794][360]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4738.302734
+[2026.04.19-00.42.27:947][372]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-00.42.27:947][372]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4738.440918, Update Interval: 347.674805
+[2026.04.19-00.45.38:721][529]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Fab/Rocks/highpoly_rocks_free_download) ...
+[2026.04.19-00.46.37:155][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.19-00.46.37:210][ 45]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PCG/PCG_Forest2] ([1] browsable assets)...
+[2026.04.19-00.46.37:210][ 45]OBJ SavePackage: Finished generating thumbnails for package [/Game/PCG/PCG_Forest2]
+[2026.04.19-00.46.37:210][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PCG/PCG_Forest2" FILE="../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Content/PCG/PCG_Forest2.uasset" SILENT=true
+[2026.04.19-00.46.37:221][ 45]LogSavePackage: Moving output files for package: /Game/PCG/PCG_Forest2
+[2026.04.19-00.46.37:221][ 45]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/PCG_Forest270CE87134C57924E40B7B28F4A3D6E37.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Content/PCG/PCG_Forest2.uasset'
+[2026.04.19-00.46.37:227][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.255 ms (total: 2.31 sec)
+[2026.04.19-00.46.37:275][ 45]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.19-00.46.37:275][ 45]LogContentValidation: Enabled validators:
+[2026.04.19-00.46.37:276][ 45]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.19-00.46.37:276][ 45]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.19-00.46.37:276][ 45]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.19-00.46.37:276][ 45]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.19-00.46.37:276][ 45]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.19-00.46.37:276][ 45]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.19-00.46.37:276][ 45]AssetCheck: /Game/PCG/PCG_Forest2 Validating asset
+[2026.04.19-00.47.06:816][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.04.19-00.47.07:637][231]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/L_HeightMap2_Auto5
+[2026.04.19-00.47.07:637][231]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/L_HeightMap2_Auto5D6183C114B5DEB9873A4358F3DD310FF.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/Autosaves/Game/Levels/L_HeightMap2_Auto5.umap'
+[2026.04.19-00.47.07:638][231]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_HeightMap2' took 0.849
+[2026.04.19-00.47.07:638][231]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.849
