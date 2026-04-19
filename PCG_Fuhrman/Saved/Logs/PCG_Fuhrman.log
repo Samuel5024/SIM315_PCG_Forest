@@ -1940,3 +1940,127 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.19-01.37.54:575][716]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.04.19-01.37.54:575][716]AssetCheck: /Game/Levels/L_HeightMap3 Validating asset
 [2026.04.19-01.37.54:575][716]AssetCheck: /Game/Level_Sequences/Heightmap3 Validating asset
+[2026.04.19-01.40.11:234][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.04.19-01.41.53:463][574]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Level_Sequences/Heightmap3.Heightmap3
+[2026.04.19-01.42.45:196][823]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2390.737061
+[2026.04.19-01.42.46:198][826]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-01.42.46:198][826]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2391.403809, Update Interval: 310.047302
+[2026.04.19-01.44.03:129][226]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Level_Sequences/Heightmap2.Heightmap2
+[2026.04.19-01.44.08:514][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.04.19-01.44.08:518][754]LogStreaming: Display: FlushAsyncLoading(523): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.19-01.44.08:947][754]LogChaosDD: Creating Chaos Debug Draw Scene for world L_HeightMap2
+[2026.04.19-01.44.09:088][754]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/L_HeightMap2.L_HeightMap2
+[2026.04.19-01.44.09:088][754]Cmd: MAP LOAD FILE="../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Content/Levels/L_HeightMap2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.04.19-01.44.09:226][754]LogWorld: UWorld::CleanupWorld for L_HeightMap3, bSessionEnded=true, bCleanupResources=true
+[2026.04.19-01.44.09:226][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-01.44.09:328][754]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.19-01.44.09:368][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.04.19-01.44.09:392][754]LogWorld: UWorld::CleanupWorld for L_HeightMap2, bSessionEnded=true, bCleanupResources=true
+[2026.04.19-01.44.09:398][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-01.44.09:482][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.04.19-01.44.09:495][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.04.19-01.44.09:918][754]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_HeightMap2'.
+[2026.04.19-01.44.09:918][754]LogChaosDD: Creating Chaos Debug Draw Scene for world L_HeightMap2
+[2026.04.19-01.44.10:335][754]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.04.19-01.44.10:382][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.04.19-01.44.10:388][754]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.04.19-01.44.10:388][754]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.183ms to complete.
+[2026.04.19-01.44.16:095][ 89]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Level_Sequences/Heightmap2.Heightmap2
+[2026.04.19-01.48.49:363][670]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2754.901855
+[2026.04.19-01.48.50:363][673]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-01.48.50:363][673]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2755.568359, Update Interval: 351.390106
+[2026.04.19-01.53.22:185][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.04.19-01.53.22:191][874]LogStreaming: Display: FlushAsyncLoading(525): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.19-01.53.22:550][874]LogChaosDD: Creating Chaos Debug Draw Scene for world L_HeightMap1
+[2026.04.19-01.53.22:638][874]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/L_HeightMap1.L_HeightMap1
+[2026.04.19-01.53.22:638][874]Cmd: MAP LOAD FILE="../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Content/Levels/L_HeightMap1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.04.19-01.53.22:642][874]LogSlate: Window 'Sequencer' being destroyed
+[2026.04.19-01.53.22:704][874]LogWorld: UWorld::CleanupWorld for L_HeightMap2, bSessionEnded=true, bCleanupResources=true
+[2026.04.19-01.53.22:704][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-01.53.22:717][874]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.19-01.53.22:747][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.04.19-01.53.22:759][874]LogWorld: UWorld::CleanupWorld for L_HeightMap1, bSessionEnded=true, bCleanupResources=true
+[2026.04.19-01.53.22:762][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-01.53.22:839][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.04.19-01.53.22:852][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.04.19-01.53.23:203][874]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_HeightMap1'.
+[2026.04.19-01.53.23:203][874]LogChaosDD: Creating Chaos Debug Draw Scene for world L_HeightMap1
+[2026.04.19-01.53.23:539][874]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.04.19-01.53.23:558][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.04.19-01.53.23:564][874]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.04.19-01.53.23:564][874]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.047ms to complete.
+[2026.04.19-01.53.39:759][551]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Level_Sequences/Heightmap1.Heightmap1
+[2026.04.19-01.53.39:811][551]LogSlate: Window 'Sequencer' being destroyed
+[2026.04.19-01.54.11:907][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.19-01.54.11:934][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.19-01.54.11:970][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.19-01.54.12:002][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.19-01.55.11:716][ 67]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3137.266602
+[2026.04.19-01.55.12:716][ 70]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-01.55.12:716][ 70]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3137.933594, Update Interval: 308.148438
+[2026.04.19-01.56.07:917][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.04.19-01.56.12:876][104]LogSlate: Window 'Save Content' being destroyed
+[2026.04.19-01.56.12:938][104]LogStreaming: Display: FlushAsyncLoading(527): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.19-01.56.12:939][104]LogChaosDD: Creating Chaos Debug Draw Scene for world L_HeightMap3
+[2026.04.19-01.56.12:940][104]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/L_HeightMap3.L_HeightMap3
+[2026.04.19-01.56.12:940][104]Cmd: MAP LOAD FILE="../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Content/Levels/L_HeightMap3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.04.19-01.56.12:943][104]LogSlate: Window 'Sequencer' being destroyed
+[2026.04.19-01.56.13:017][104]LogWorld: UWorld::CleanupWorld for L_HeightMap1, bSessionEnded=true, bCleanupResources=true
+[2026.04.19-01.56.13:018][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-01.56.13:027][104]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.19-01.56.13:040][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.04.19-01.56.13:045][104]LogWorld: UWorld::CleanupWorld for L_HeightMap3, bSessionEnded=true, bCleanupResources=true
+[2026.04.19-01.56.13:045][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-01.56.13:054][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.04.19-01.56.13:063][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.04.19-01.56.13:064][104]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_HeightMap3'.
+[2026.04.19-01.56.13:064][104]LogChaosDD: Creating Chaos Debug Draw Scene for world L_HeightMap3
+[2026.04.19-01.56.13:082][104]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.04.19-01.56.13:092][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.04.19-01.56.13:097][104]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.04.19-01.56.13:097][104]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.042ms to complete.
+[2026.04.19-01.56.21:484][ 62]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Level_Sequences/Heightmap3.Heightmap3
+[2026.04.19-01.56.21:537][ 62]LogSlate: Window 'Sequencer' being destroyed
+[2026.04.19-01.56.34:526][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.19-01.56.34:560][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.19-01.56.34:592][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.19-01.56.34:625][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.19-01.56.38:338][961]LogSlate: Window 'Sequencer' being destroyed
+[2026.04.19-01.56.38:355][961]LogSlate: Window 'Sequencer' being destroyed
+[2026.04.19-01.56.44:179][608]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.19-01.56.44:179][608]Can't find target element.
+[2026.04.19-01.56.55:138][834]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Level_Sequences/Heightmap3.Heightmap3
+[2026.04.19-01.56.55:189][834]LogSlate: Window 'Sequencer' being destroyed
+[2026.04.19-01.58.03:795][688]LogEditor: Attempting to add actor of class 'ExponentialHeightFog' to level at 0.00,0.00,0.00
+[2026.04.19-01.58.05:269][857]LogEditor: Attempting to add actor of class 'VolumetricCloud' to level at 0.00,0.00,0.00
+[2026.04.19-01.58.05:663][896]LogEditor: Attempting to add actor of class 'SkyAtmosphere' to level at 0.00,0.00,0.00
+[2026.04.19-01.58.06:121][940]LogEditor: Attempting to add actor of class 'DirectionalLight' to level at 0.00,0.00,0.00
+[2026.04.19-01.58.06:653][992]LogEditor: Attempting to add actor of class 'SkyLight' to level at 0.00,0.00,0.00
+[2026.04.19-01.58.07:600][ 71]LogSlate: Window 'Env. Light Mixer' being destroyed
+[2026.04.19-01.58.07:605][ 71]LogSlate: Window 'Env. Light Mixer' being destroyed
+[2026.04.19-01.58.11:919][446]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2026.04.19-01.58.39:549][523]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2026.04.19-01.58.42:436][818]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.19-01.59.08:989][811]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.19-01.59.53:804][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.04.19-01.59.53:812][845]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.19-01.59.53:889][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.04.19-01.59.55:985][845]LogSavePackage: Moving output files for package: /Game/Levels/L_HeightMap3
+[2026.04.19-01.59.55:986][845]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/L_HeightMap342D1147A46D42D69100782AC065A6A44.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Content/Levels/L_HeightMap3.umap'
+[2026.04.19-01.59.56:008][845]LogFileHelpers: Saving map 'L_HeightMap3' took 2.149
+[2026.04.19-01.59.56:008][845]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_Sequences/Heightmap1] ([1] browsable assets)...
+[2026.04.19-01.59.56:008][845]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_Sequences/Heightmap1]
+[2026.04.19-01.59.56:008][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_Sequences/Heightmap1" FILE="../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Content/Level_Sequences/Heightmap1.uasset" SILENT=true
+[2026.04.19-01.59.56:010][845]LogSavePackage: Moving output files for package: /Game/Level_Sequences/Heightmap1
+[2026.04.19-01.59.56:011][845]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/Heightmap11EA331EF45A0B2BE73AB9DA490BDBD38.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Content/Level_Sequences/Heightmap1.uasset'
+[2026.04.19-01.59.56:018][845]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.20 sec (total: 9.13 sec)
+[2026.04.19-01.59.56:088][845]LogContentValidation: Display: Starting to validate 2 assets
+[2026.04.19-01.59.56:088][845]LogContentValidation: Enabled validators:
+[2026.04.19-01.59.56:088][845]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.19-01.59.56:088][845]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.19-01.59.56:088][845]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.19-01.59.56:088][845]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.19-01.59.56:088][845]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.19-01.59.56:088][845]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.19-01.59.56:089][845]AssetCheck: /Game/Levels/L_HeightMap3 Validating asset
+[2026.04.19-01.59.56:089][845]AssetCheck: /Game/Level_Sequences/Heightmap1 Validating asset
