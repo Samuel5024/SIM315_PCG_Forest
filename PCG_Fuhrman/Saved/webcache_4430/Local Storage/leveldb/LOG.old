@@ -1,14 +1,33 @@
-2026/04/18-16:12:31.538 48e0 Reusing MANIFEST C:/Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/04/18-16:12:31.543 48e0 Recovering log #16
-2026/04/18-16:12:31.543 48e0 Level-0 table #18: started
-2026/04/18-16:12:31.545 48e0 Level-0 table #18: 68530 bytes OK
-2026/04/18-16:12:31.546 48e0 Delete type=0 #16
-2026/04/18-16:12:31.546 7804 Compacting 4@0 + 1@1 files
-2026/04/18-16:12:31.552 7804 Generated table #20@0: 3 keys, 17504 bytes
-2026/04/18-16:12:31.552 7804 Compacted 4@0 + 1@1 files => 17504 bytes
-2026/04/18-16:12:31.552 7804 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/04/18-16:12:31.553 7804 Delete type=2 #7
-2026/04/18-16:12:31.553 7804 Delete type=2 #10
-2026/04/18-16:12:31.553 7804 Delete type=2 #13
-2026/04/18-16:12:31.553 7804 Delete type=2 #15
-2026/04/18-16:12:31.553 7804 Delete type=2 #18
+2026/04/18-16:23:33.925 8fc8 Reusing MANIFEST C:/Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/04/18-16:23:33.929 8fc8 Recovering log #19
+2026/04/18-16:23:33.929 8fc8 Reusing old log C:/Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/webcache_4430\Local Storage\leveldb/000019.log 
+2026/04/18-16:47:42.078 62a8 Level-0 table #23: started
+2026/04/18-16:47:42.080 62a8 Level-0 table #23: 71528 bytes OK
+2026/04/18-16:47:42.081 62a8 Delete type=0 #19
+2026/04/18-16:48:17.123 8fd4 Level-0 table #25: started
+2026/04/18-16:48:17.125 8fd4 Level-0 table #25: 76858 bytes OK
+2026/04/18-16:48:17.126 8fd4 Delete type=0 #22
+2026/04/18-16:53:53.074 4790 Level-0 table #27: started
+2026/04/18-16:53:53.076 4790 Level-0 table #27: 62098 bytes OK
+2026/04/18-16:53:53.077 4790 Delete type=0 #24
+2026/04/18-16:54:19.493 8fd4 Level-0 table #29: started
+2026/04/18-16:54:19.496 8fd4 Level-0 table #29: 64838 bytes OK
+2026/04/18-16:54:19.496 8fd4 Delete type=0 #26
+2026/04/18-16:54:19.497 8fd4 Compacting 4@0 + 1@1 files
+2026/04/18-16:54:19.498 8fd4 Generated table #30@0: 3 keys, 22188 bytes
+2026/04/18-16:54:19.498 8fd4 Compacted 4@0 + 1@1 files => 22188 bytes
+2026/04/18-16:54:19.498 8fd4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/18-16:54:19.499 8fd4 Delete type=2 #20
+2026/04/18-16:54:19.499 8fd4 Delete type=2 #23
+2026/04/18-16:54:19.499 8fd4 Delete type=2 #25
+2026/04/18-16:54:19.499 8fd4 Delete type=2 #27
+2026/04/18-16:54:19.499 8fd4 Delete type=2 #29
+2026/04/18-16:54:36.954 4790 Level-0 table #32: started
+2026/04/18-16:54:36.958 4790 Level-0 table #32: 68855 bytes OK
+2026/04/18-16:54:36.958 4790 Delete type=0 #28
+2026/04/18-16:55:21.065 8fd4 Level-0 table #34: started
+2026/04/18-16:55:21.067 8fd4 Level-0 table #34: 71318 bytes OK
+2026/04/18-16:55:21.067 8fd4 Delete type=0 #31
+2026/04/18-16:55:49.328 8fd4 Level-0 table #36: started
+2026/04/18-16:55:49.331 8fd4 Level-0 table #36: 74694 bytes OK
+2026/04/18-16:55:49.332 8fd4 Delete type=0 #33
