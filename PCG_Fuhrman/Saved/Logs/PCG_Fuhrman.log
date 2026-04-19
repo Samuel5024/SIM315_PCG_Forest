@@ -1691,3 +1691,252 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.19-01.23.16:977][680]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.04.19-01.23.16:977][680]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.04.19-01.23.16:977][680]AssetCheck: /Game/Levels/L_HeightMap3 Validating asset
+[2026.04.19-01.23.54:409][425]LogEditor: Attempting to add actor of class 'SkyLight' to level at 0.00,0.00,0.00
+[2026.04.19-01.23.54:429][425]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.04.19-01.23.55:131][501]LogEditor: Attempting to add actor of class 'DirectionalLight' to level at 0.00,0.00,0.00
+[2026.04.19-01.23.55:594][545]LogEditor: Attempting to add actor of class 'SkyAtmosphere' to level at 0.00,0.00,0.00
+[2026.04.19-01.23.56:035][587]LogEditor: Attempting to add actor of class 'VolumetricCloud' to level at 0.00,0.00,0.00
+[2026.04.19-01.23.56:452][623]LogEditor: Attempting to add actor of class 'ExponentialHeightFog' to level at 0.00,0.00,0.00
+[2026.04.19-01.23.57:599][724]LogSlate: Window 'Env. Light Mixer' being destroyed
+[2026.04.19-01.23.57:605][724]LogSlate: Window 'Env. Light Mixer' being destroyed
+[2026.04.19-01.24.47:042][146]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1312.575806
+[2026.04.19-01.24.48:042][149]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-01.24.48:042][149]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1313.242432, Update Interval: 355.828735
+[2026.04.19-01.25.38:273][601]LogStreaming: Display: FlushAsyncLoading(507): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.19-01.25.38:600][601]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2026.04.19-01.25.55:788][751]LogSlate: Window 'PCG_Forest2' being destroyed
+[2026.04.19-01.26.33:697][750]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.26.33:698][750]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.26.33:698][750]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_0.Heightmap_2 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.26.33:698][750]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_0.Heightmap_3 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.26.33:699][750]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_0.Heightmap_5 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.26.33:699][750]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_0.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.26.33:699][750]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_0.Heightmap_6 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.26.33:699][750]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_0.Heightmap_7 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.26.33:700][750]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_0.Heightmap_8 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.26.33:702][750]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_0.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.26.33:702][750]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_0.Heightmap_9 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.26.33:702][750]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.26.33:703][750]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_0.Heightmap_11 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.26.33:703][750]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_0.Heightmap_13 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.26.33:704][750]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_0.Heightmap_14 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.26.33:704][750]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_0.Heightmap_15 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.26.33:998][750]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_0.Heightmap_17 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.26.33:998][750]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_0.Heightmap_16 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.26.33:998][750]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_0.Heightmap_18 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.26.33:999][750]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_0.Heightmap_19 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.26.33:999][750]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_0.Heightmap_21 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.26.33:999][750]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_0.Heightmap_20 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.26.33:999][750]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_0.Heightmap_22 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.26.34:000][750]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_0.Heightmap_23 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.26.34:000][750]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_0.Heightmap_24 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.26.34:000][750]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_0.Heightmap_25 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.26.34:000][750]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_0.Heightmap_26 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.26.34:002][750]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_0.Heightmap_27 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.26.34:002][750]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_0.Heightmap_28 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.26.34:002][750]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_0.Heightmap_29 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.26.34:002][750]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_0.Heightmap_30 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.26.34:002][750]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_0.Heightmap_31 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.27.02:028][720]Cmd: TRANSACTION UNDO
+[2026.04.19-01.27.02:028][720]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2026.04.19-01.27.07:100][158]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2026.04.19-01.27.23:032][723]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.04.19-01.28.04:185][849]Cmd: DELETE
+[2026.04.19-01.28.04:185][849]Cmd: ACTOR DELETE
+[2026.04.19-01.28.04:212][849]LogEditorActor: Deleted Actor: ExponentialHeightFog
+[2026.04.19-01.28.04:245][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.04.19-01.28.04:256][849]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2026.04.19-01.29.16:889][635]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2026.04.19-01.29.58:297][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:297][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:298][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_2 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:298][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_3 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:298][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:300][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_5 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:302][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_6 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:302][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_7 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:303][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_11 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:303][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_15 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:303][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:303][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:303][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_14 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:303][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_13 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:304][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_18 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:304][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_17 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:305][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_20 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:306][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_21 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:310][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_22 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:313][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_23 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:314][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_19 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:315][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_26 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:316][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_34 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:316][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_28 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:316][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_30 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:316][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_31 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:317][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_27 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:317][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_29 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:317][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_36 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:318][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_35 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:318][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_38 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:318][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_37 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:318][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_39 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:319][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_42 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:321][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_43 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:322][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_46 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:323][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_44 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:323][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_45 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:324][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_50 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:324][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_47 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:325][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_51 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:326][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_54 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:326][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_52 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:328][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_53 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:329][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_58 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:329][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_59 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:330][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_61 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:330][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_60 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:333][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_62 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:334][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_63 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.29.58:340][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_55 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:171][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_64 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:171][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_67 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:171][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_65 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:171][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_66 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:172][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_68 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:176][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_69 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:176][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_70 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:176][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_71 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:178][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_74 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:178][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_75 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:178][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_76 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:178][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_77 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:178][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_78 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:179][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_79 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:179][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_81 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:180][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_83 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:180][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_86 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:180][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_87 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:181][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_84 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:181][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_85 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:181][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_91 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:181][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_82 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:181][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_90 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:182][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_92 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:182][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_95 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:182][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_94 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:183][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_93 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:185][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_98 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:185][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_99 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:185][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_100 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:185][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_101 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:186][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_102 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:186][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_103 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:186][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_107 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:187][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_106 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:188][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_108 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:188][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_110 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:188][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_111 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:188][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_109 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:188][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_114 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:190][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_115 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:191][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_116 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:191][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_118 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:191][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_117 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:191][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_119 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:192][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_123 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:192][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_122 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:192][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_124 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:193][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_126 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:194][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_127 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.00:194][839]LogTexture: Display: Building textures: /Game/Levels/L_HeightMap3.L_HeightMap3:PersistentLevel.Landscape_1.Heightmap_125 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display: ================================================
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display: Total job queries 1,025, among them cache hits 123 (12.00%), DDC hits 762 (74.34%), Duplicates 67 (6.54%)
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display: Tracking 835 distinct input hashes that result in 542 distinct outputs (64.91%)
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display: RAM used: 321.73 KiB of 3.20 GiB budget. Usage: 0.01%
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display: Shaders Compiled: 73
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display: Jobs assigned 73, completed 73 (100%)
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display: Average time worker was idle: 0.71 s
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.19 s
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display: Job execution time: average 0.44 s, max 1.10 s
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display: Job life time (pending + execution): average 0.52 s, max 1.19
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display: Shader code size: average 8.506 KiB, min 2.797 KiB, max 15.953 KiB
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.89 s
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.42%
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display: Jobs were issued in 73 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display: Average processing rate: 10.60 jobs/sec
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display: Total thread time: 22.624 s
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display: Total thread preprocess time: 11.289 s
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display: Percentage time preprocessing: 49.90%
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display: Effective parallelization: 3.28 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   11 times, average 0.57 sec, max 0.83 sec, min 0.46 sec)
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 0.55 sec, max 0.55 sec, min 0.55 sec)
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   13 times, average 0.31 sec, max 0.47 sec, min 0.25 sec)
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 0.27 sec, max 0.31 sec, min 0.23 sec)
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    2 times, average 0.27 sec, max 0.32 sec, min 0.22 sec)
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 27.71% of total time (compiled   11 times, average 0.57 sec, max 0.83 sec, min 0.46 sec)
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.94% of total time (compiled   13 times, average 0.31 sec, max 0.47 sec, min 0.25 sec)
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display:                                                 FLumenCardPS - 12.88% of total time (compiled   13 times, average 0.22 sec, max 0.34 sec, min 0.17 sec)
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.72% of total time (compiled   13 times, average 0.22 sec, max 0.29 sec, min 0.17 sec)
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.75% of total time (compiled   13 times, average 0.19 sec, max 0.26 sec, min 0.15 sec)
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display: === Material stats ===
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display: Materials Translated:    181
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display: Material Total Translate Time: 0.16 s
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display: Material Translation Only: 0.07 s (43%)
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display: Material Cache Hits: 42 (23%)
+[2026.04.19-01.30.03:506][839]LogShaderCompilers: Display: ================================================
+[2026.04.19-01.30.11:668][283]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2026.04.19-01.30.15:349][684]Cmd: DELETE
+[2026.04.19-01.30.15:349][684]Cmd: ACTOR DELETE
+[2026.04.19-01.30.15:443][684]LogEditorActor: Deleted Actor: Landscape
+[2026.04.19-01.30.15:825][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.04.19-01.30.15:831][684]LogEditorActor: Deleted 1 Actors (0.482 secs)
+[2026.04.19-01.30.46:095][609]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.19-01.30.49:051][895]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.19-01.31.07:926][751]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1693.461182
+[2026.04.19-01.31.08:076][769]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-01.31.08:076][769]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1693.602173, Update Interval: 300.281982
+[2026.04.19-01.31.20:053][ 76]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.19-01.33.10:542][123]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at 3071330.00,4074760.00,20410.00
+[2026.04.19-01.33.39:183][ 92]LogContentBrowser: Deferred new asset file creation: NewLevelSequence
+[2026.04.19-01.33.39:192][ 92]LogContentBrowser: Creating deferred item: NewLevelSequence
+[2026.04.19-01.33.39:203][ 93]LogContentBrowser: Renaming the item being created (Deferred Item: NewLevelSequence).
+[2026.04.19-01.33.43:048][492]LogContentBrowser: Attempting asset rename: NewLevelSequence -> Heightmap3
+[2026.04.19-01.33.43:049][492]LogContentBrowser: End creating deferred item NewLevelSequence
+[2026.04.19-01.33.44:892][688]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Level_Sequences/Heightmap3.Heightmap3
+[2026.04.19-01.36.23:579][721]Cmd: TRANSACTION UNDO
+[2026.04.19-01.36.23:579][721]LogEditorTransaction: Undo Animatable Property Changed
+[2026.04.19-01.36.26:767][966]Cmd: TRANSACTION UNDO
+[2026.04.19-01.36.26:767][966]LogEditorTransaction: Undo Add Keys at Current Time
+[2026.04.19-01.36.41:663][352]Cmd: TRANSACTION UNDO
+[2026.04.19-01.36.41:663][352]LogEditorTransaction: Undo Add Keys at Current Time
+[2026.04.19-01.36.41:966][357]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2027.508545
+[2026.04.19-01.36.42:216][362]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-01.36.42:216][362]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2027.709106, Update Interval: 320.913116
+[2026.04.19-01.37.52:207][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.04.19-01.37.52:216][716]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.19-01.37.52:315][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.04.19-01.37.54:480][716]LogSavePackage: Moving output files for package: /Game/Levels/L_HeightMap3
+[2026.04.19-01.37.54:481][716]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/L_HeightMap3E9C22A0E47C9D36D5E272AA885BF66E5.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Content/Levels/L_HeightMap3.umap'
+[2026.04.19-01.37.54:502][716]LogFileHelpers: Saving map 'L_HeightMap3' took 2.227
+[2026.04.19-01.37.54:502][716]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_Sequences/Heightmap3] ([1] browsable assets)...
+[2026.04.19-01.37.54:502][716]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_Sequences/Heightmap3]
+[2026.04.19-01.37.54:502][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_Sequences/Heightmap3" FILE="../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Content/Level_Sequences/Heightmap3.uasset" SILENT=true
+[2026.04.19-01.37.54:504][716]LogSavePackage: Moving output files for package: /Game/Level_Sequences/Heightmap3
+[2026.04.19-01.37.54:504][716]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/Heightmap31BAC8B8D49DAE1FC07769084230FAB27.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Content/Level_Sequences/Heightmap3.uasset'
+[2026.04.19-01.37.54:510][716]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.29 sec (total: 6.92 sec)
+[2026.04.19-01.37.54:575][716]LogContentValidation: Display: Starting to validate 2 assets
+[2026.04.19-01.37.54:575][716]LogContentValidation: Enabled validators:
+[2026.04.19-01.37.54:575][716]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.19-01.37.54:575][716]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.19-01.37.54:575][716]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.19-01.37.54:575][716]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.19-01.37.54:575][716]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.19-01.37.54:575][716]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.19-01.37.54:575][716]AssetCheck: /Game/Levels/L_HeightMap3 Validating asset
+[2026.04.19-01.37.54:575][716]AssetCheck: /Game/Level_Sequences/Heightmap3 Validating asset
