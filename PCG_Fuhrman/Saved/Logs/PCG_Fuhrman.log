@@ -2064,3 +2064,93 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.19-01.59.56:088][845]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.04.19-01.59.56:089][845]AssetCheck: /Game/Levels/L_HeightMap3 Validating asset
 [2026.04.19-01.59.56:089][845]AssetCheck: /Game/Level_Sequences/Heightmap1 Validating asset
+[2026.04.19-02.00.47:841][ 76]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2026.04.19-02.01.03:732][567]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3489.273438
+[2026.04.19-02.01.03:907][581]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-02.01.03:907][581]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3489.414062, Update Interval: 312.847076
+[2026.04.19-02.01.10:637][191]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at 3079530.00,4557650.00,-31520.00
+[2026.04.19-02.01.14:109][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.19-02.01.14:138][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.19-02.01.14:173][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.19-02.01.14:204][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.19-02.01.39:068][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.04.19-02.01.39:078][353]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.19-02.01.39:187][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.04.19-02.01.42:701][353]LogSavePackage: Moving output files for package: /Game/Levels/L_HeightMap3
+[2026.04.19-02.01.42:702][353]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/L_HeightMap3D29B0D4B417A3B7B18A2F0A9A3D3D0BB.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Content/Levels/L_HeightMap3.umap'
+[2026.04.19-02.01.42:730][353]LogFileHelpers: Saving map 'L_HeightMap3' took 3.596
+[2026.04.19-02.01.42:730][353]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Level_Sequences/Heightmap3] ([1] browsable assets)...
+[2026.04.19-02.01.42:730][353]OBJ SavePackage: Finished generating thumbnails for package [/Game/Level_Sequences/Heightmap3]
+[2026.04.19-02.01.42:730][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_Sequences/Heightmap3" FILE="../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Content/Level_Sequences/Heightmap3.uasset" SILENT=true
+[2026.04.19-02.01.42:732][353]LogSavePackage: Moving output files for package: /Game/Level_Sequences/Heightmap3
+[2026.04.19-02.01.42:732][353]LogSavePackage: Moving '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Saved/Heightmap31C471CC64E3D974AB811E6B56C61D309.tmp' to '../../../../../../Users/fuhrmas1/Documents/GitHub/SIM315_PCG_Forest/PCG_Fuhrman/Content/Level_Sequences/Heightmap3.uasset'
+[2026.04.19-02.01.42:738][353]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.66 sec (total: 12.7 sec)
+[2026.04.19-02.01.42:797][353]LogContentValidation: Display: Starting to validate 2 assets
+[2026.04.19-02.01.42:797][353]LogContentValidation: Enabled validators:
+[2026.04.19-02.01.42:797][353]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.19-02.01.42:797][353]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.19-02.01.42:797][353]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.19-02.01.42:797][353]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.19-02.01.42:797][353]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.19-02.01.42:797][353]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.19-02.01.42:797][353]AssetCheck: /Game/Levels/L_HeightMap3 Validating asset
+[2026.04.19-02.01.42:799][353]AssetCheck: /Game/Level_Sequences/Heightmap3 Validating asset
+[2026.04.19-02.03.14:983][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.04.19-02.03.16:285][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.04.19-02.03.16:314][158]LogStall: Shutdown...
+[2026.04.19-02.03.16:314][158]LogStall: Shutdown complete.
+[2026.04.19-02.03.16:321][158]LogSlate: Window 'Sequencer' being destroyed
+[2026.04.19-02.03.16:578][158]LogSlate: Window 'PCG_Fuhrman - Unreal Editor' being destroyed
+[2026.04.19-02.03.16:711][158]Cmd: QUIT_EDITOR
+[2026.04.19-02.03.16:711][159]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.04.19-02.03.16:715][159]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.04.19-02.03.16:715][159]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.04.19-02.03.16:715][159]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.04.19-02.03.16:774][159]LogWorld: UWorld::CleanupWorld for L_HeightMap3, bSessionEnded=true, bCleanupResources=true
+[2026.04.19-02.03.16:774][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-02.03.16:785][159]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.04.19-02.03.16:787][159]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.04.19-02.03.16:797][159]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.04.19-02.03.16:797][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-02.03.16:797][159]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.04.19-02.03.16:798][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-02.03.16:800][159]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.04.19-02.03.16:801][159]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2026.04.19-02.03.16:801][159]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2026.04.19-02.03.16:801][159]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2026.04.19-02.03.16:803][159]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.04.19-02.03.16:803][159]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.04.19-02.03.16:803][159]LogAudio: Display: Audio Device unregistered from world 'L_HeightMap3'.
+[2026.04.19-02.03.16:803][159]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.04.19-02.03.16:804][159]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.04.19-02.03.16:807][159]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.04.19-02.03.16:825][159]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.04.19-02.03.16:825][159]LogAudio: Display: Audio Device Manager Shutdown
+[2026.04.19-02.03.16:827][159]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.04.19-02.03.16:827][159]LogExit: Preparing to exit.
+[2026.04.19-02.03.16:867][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.04.19-02.03.17:947][159]LogEditorDataStorage: Deinitializing
+[2026.04.19-02.03.18:065][159]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.04.19-02.03.18:107][159]LogExit: Editor shut down
+[2026.04.19-02.03.18:110][159]LogExit: Transaction tracking system shut down
+[2026.04.19-02.03.18:384][159]LogExit: Object subsystem successfully closed.
+[2026.04.19-02.03.18:430][159]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.04.19-02.03.18:994][159]LogMemoryProfiler: Shutdown
+[2026.04.19-02.03.18:994][159]LogNetworkingProfiler: Shutdown
+[2026.04.19-02.03.18:994][159]LoadingProfiler: Shutdown
+[2026.04.19-02.03.18:994][159]LogTimingProfiler: Shutdown
+[2026.04.19-02.03.19:009][159]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/.
+[2026.04.19-02.03.19:429][159]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.04.19-02.03.19:434][159]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2026.04.19-02.03.19:434][159]LogNFORDenoise: NFORDenoise function shutting down
+[2026.04.19-02.03.19:435][159]RenderDocPlugin: plugin has been unloaded.
+[2026.04.19-02.03.19:447][159]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.04.19-02.03.19:447][159]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA0231973-4BBA-E031-5D09-A68B85271678%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=c4a13d064a9fdf06070964b61129e31c%7C978506872a2045339c13c965c5eb0076%7C010e5421-1e97-4a39-8d79-593f2b5217c6&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.04.19-02.03.19:985][159]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.04.19-02.03.19:987][159]LogXGEController: Cleaning working directory: C:/Users/fuhrmas1/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.04.19-02.03.19:990][159]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.04.19-02.03.19:990][159]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.04.19-02.03.19:990][159]LogPakFile: Destroying PakPlatformFile
+[2026.04.19-02.03.22:453][159]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.04.19-02.03.22:594][159]LogExit: Exiting.
+[2026.04.19-02.03.22:613][159]Log file closed, 04/18/26 19:03:22
